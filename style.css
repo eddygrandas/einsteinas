@@ -1,0 +1,34 @@
+article {
+    width: 500px;
+    border: 0px solid grey;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 5px 5px 30px 0px #0C95E5;
+    cursor: pointer;
+}
+h1{
+  color: #0C95E5;
+  }
+.klase{
+  border: 1px solid grey;
+  padding: 5px;
+  margin: 5px;
+  line-height: 150%;
+}
+.spalva{
+  color: #666;
+}
+.valytyi{
+  text-decoration-line: none;
+}
+a{
+  text-decoration-line: none;
+}
+p{
+  text: float;
+}
+img{
+  float: left;
+  margin-right: 12px;
+  width:150px;
+}
